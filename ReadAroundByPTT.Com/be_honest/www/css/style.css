@@ -280,6 +280,15 @@ ul.block_list {
     height: 70%;
 }
 
+.video-01 .frame {
+    position: absolute;
+    left: 8%;
+    top: 3%;
+    width: 85%;
+    height: 87%;
+    pointer-events: none;
+}
+
 .text-06 {
     height: 225px;
     font-family: 'dbh_m';
@@ -446,7 +455,12 @@ ul.block_list {
     margin-top: 0%;
     padding: 10px 2%;
 }
+
 @media only screen and (min-width: 360px) {
+    body {
+        max-width: 360px;
+        margin: 0px auto;
+    }
     .text-01 {
         height: 335px;
         font-family: 'dbh_b';
@@ -501,6 +515,14 @@ ul.block_list {
         margin-top: 8%;
         width: 72%;
         height: 70%;
+    }
+    .video-01 .frame {
+        position: absolute;
+        left: 8%;
+        top: 3%;
+        width: 85%;
+        height: 87%;
+        pointer-events: none;
     }
     .text-06 {
         height: 257px;
@@ -641,7 +663,12 @@ ul.block_list {
         padding: 10px 2%;
     }
 }
-@media only screen and (min-width: 370px) {
+
+@media only screen and (min-width: 375px) {
+    body {
+        max-width: 375px;
+        margin: 0px auto;
+    }
     .text-01 {
         height: 335px;
         font-family: 'dbh_b';
@@ -837,7 +864,11 @@ ul.block_list {
     }
 }
 
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 414px) {
+    body {
+        max-width: 414px;
+        margin: 0px auto;
+    }
     .text-01 {
         height: 363px;
         font-family: 'dbh_b';
@@ -892,6 +923,14 @@ ul.block_list {
         margin-top: 4%;
         width: 72%;
         height: 75%;
+    }
+    .video-01 .frame {
+        position: absolute;
+        left: 8%;
+        top: -1%;
+        width: 85%;
+        height: 94%;
+        pointer-events: none;
     }
     .text-06 {
         height: 288px;
@@ -1032,11 +1071,16 @@ ul.block_list {
         padding: 10px 2%;
     }
 }
+
 @media only screen and (min-width: 480px) {
+    body {
+        max-width: 480px;
+        margin: 0px auto;
+    }
     .text-01 {
-            height: 422px;
-    font-family: 'dbh_b';
-    font-size: 1.5rem;
+        height: 422px;
+        font-family: 'dbh_b';
+        font-size: 1.5rem;
     }
     .text-01 .text {
         margin-top: 412px;
@@ -1087,6 +1131,14 @@ ul.block_list {
         margin-top: 4%;
         width: 72%;
         height: 75%;
+    }
+    .video-01 .frame {
+        position: absolute;
+        left: 8%;
+        top: -4%;
+        width: 85%;
+        height: 94%;
+        pointer-events: none;
     }
     .text-06 {
         height: 346px;
@@ -1228,36 +1280,40 @@ ul.block_list {
     }
 }
 
-@media only screen and (min-width: 560px) {
+@media only screen and (min-width: 568px) {
+    body {
+        max-width: 568px;
+        margin: 0px auto;
+    }
     .text-01 {
         height: 508px;
-    font-family: 'dbh_b';
-    font-size: 1.5rem;
+        font-family: 'dbh_b';
+        font-size: 1.5rem;
     }
     .text-01 .text {
         margin-top: 495px;
     }
     .text-02 {
-            height: 162px;
-    font-family: 'dbh_r';
-    font-size: 2.5rem;
+        height: 162px;
+        font-family: 'dbh_r';
+        font-size: 2.5rem;
     }
     .text-02 .text {
         margin-top: 1%;
     }
     .text-03 {
-            height: 178px;
-    font-family: 'dbh_r';
-    font-size: 1.2rem;
+        height: 178px;
+        font-family: 'dbh_r';
+        font-size: 1.2rem;
     }
     .text-03 .text {
         margin-top: 1%;
         padding: 10px 3%;
     }
     .text-04 {
-            height: 219px;
-    font-family: 'dbh_m';
-    font-size: 1.3rem;
+        height: 219px;
+        font-family: 'dbh_m';
+        font-size: 1.3rem;
     }
     .text-04 .text {
         margin-top: 1%;
@@ -1267,9 +1323,9 @@ ul.block_list {
         font-size: 2em;
     }
     .text-05 {
-            height: 542px;
-    font-family: 'dbh_r';
-    font-size: 1.3rem;
+        height: 542px;
+        font-family: 'dbh_r';
+        font-size: 1.3rem;
     }
     .text-05 .text {
         margin-top: 1%;
@@ -1285,45 +1341,45 @@ ul.block_list {
         height: 75%;
     }
     .text-06 {
-            height: 397px;
-    font-family: 'dbh_m';
-    font-size: 1.3rem;
+        height: 397px;
+        font-family: 'dbh_m';
+        font-size: 1.3rem;
     }
     .text-06 .text {
         margin-top: 13%;
         padding: 10px 12%;
     }
     .text-07 {
-            height: 291px;
-    font-family: 'dbh_m';
-    font-size: 1.2rem;
+        height: 291px;
+        font-family: 'dbh_m';
+        font-size: 1.2rem;
     }
     .text-07 .text {
         margin-top: 3%;
         padding: 10px 12%;
     }
     .text-08 {
-            height: 386px;
-    font-family: 'dbh_l';
-    font-size: 1.5rem;
+        height: 386px;
+        font-family: 'dbh_l';
+        font-size: 1.5rem;
     }
     .text-08 .text {
         margin-top: 7%;
         padding: 10px 12%;
     }
     .text-09 {
-            height: 288px;
-    font-family: 'dbh_m';
-    font-size: 1.1rem;
+        height: 288px;
+        font-family: 'dbh_m';
+        font-size: 1.1rem;
     }
     .text-09 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-10 {
-            height: 354px;
-    font-family: 'dbh_l';
-    font-size: 1.5rem;
+        height: 354px;
+        font-family: 'dbh_l';
+        font-size: 1.5rem;
     }
     .text-10 .text {
         margin-top: 7%;
@@ -1414,9 +1470,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-17 {
-            height: 250px;
-    font-family: 'dbh_m';
-    font-size: 1.2rem;
+        height: 250px;
+        font-family: 'dbh_m';
+        font-size: 1.2rem;
     }
     .text-17 .text {
         margin-top: 0%;
@@ -1424,7 +1480,11 @@ ul.block_list {
     }
 }
 
-@media only screen and (min-width: 760px) {
+@media only screen and (min-width: 768px) {
+    body {
+        max-width: 768px;
+        margin: 0px auto;
+    }
     .text-01 {
         height: 683px;
         font-family: 'dbh_b';
