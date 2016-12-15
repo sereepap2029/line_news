@@ -213,17 +213,17 @@ ul.block_list {
 }
 
 .text-01 {
-    height: 50%;
+    height: 286px;
     font-family: 'dbh_b';
     font-size: 1rem;
 }
 
 .text-01 .text {
-    margin-top: 86%;
+    margin-top: 276px;
 }
 
 .text-02 {
-    height: 16%;
+    height: 88px;
     font-family: 'dbh_r';
     font-size: 1.6rem;
 }
@@ -233,7 +233,7 @@ ul.block_list {
 }
 
 .text-03 {
-    height: 16%;
+    height: 92px;
     font-family: 'dbh_r';
     font-size: 0.7rem;
 }
@@ -244,7 +244,7 @@ ul.block_list {
 }
 
 .text-04 {
-    height: 23%;
+    height: 130px;
     font-family: 'dbh_m';
     font-size: 0.8rem;
 }
@@ -259,7 +259,7 @@ ul.block_list {
 }
 
 .text-05 {
-    height: 53%;
+    height: 303px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -270,7 +270,7 @@ ul.block_list {
 }
 
 .video-01 {
-    height: 40%;
+    height: 225px;
 }
 
 .video-01 iframe {
@@ -281,7 +281,7 @@ ul.block_list {
 }
 
 .text-06 {
-    height: 40%;
+    height: 225px;
     font-family: 'dbh_m';
     font-size: 0.85rem;
 }
@@ -292,7 +292,7 @@ ul.block_list {
 }
 
 .text-07 {
-    height: 27%;
+    height: 160px;
     font-family: 'dbh_m';
     font-size: 0.7rem;
 }
@@ -303,7 +303,7 @@ ul.block_list {
 }
 
 .text-08 {
-    height: 39%;
+    height: 211px;
     font-family: 'dbh_l';
     font-size: 0.85rem;
 }
@@ -314,7 +314,7 @@ ul.block_list {
 }
 
 .text-09 {
-    height: 29%;
+    height: 177px;
     font-family: 'dbh_m';
     font-size: 0.7rem;
 }
@@ -325,7 +325,7 @@ ul.block_list {
 }
 
 .text-10 {
-    height: 33%;
+    height: 180px;
     font-family: 'dbh_l';
     font-size: 0.85rem;
 }
@@ -336,7 +336,7 @@ ul.block_list {
 }
 
 .text-11 {
-    height: 60%;
+    height: 346px;
     font-family: 'dbh_m';
     font-size: 0.7rem;
 }
@@ -347,7 +347,7 @@ ul.block_list {
 }
 
 .text-12 {
-    height: 30%;
+    height: 168px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -365,7 +365,7 @@ ul.block_list {
 }
 
 .text-13 {
-    height: 30%;
+    height: 175px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -383,7 +383,7 @@ ul.block_list {
 }
 
 .text-14 {
-    height: 30%;
+    height: 168px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -401,7 +401,7 @@ ul.block_list {
 }
 
 .text-15 {
-    height: 30%;
+    height: 168px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -419,7 +419,7 @@ ul.block_list {
 }
 
 .text-16 {
-    height: 43%;
+    height: 244px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -437,7 +437,7 @@ ul.block_list {
 }
 
 .text-17 {
-    height: 27%;
+    height: 153px;
     font-family: 'dbh_m';
     font-size: 0.7rem;
 }
@@ -446,18 +446,17 @@ ul.block_list {
     margin-top: 0%;
     padding: 10px 2%;
 }
-
-@media only screen and (min-width: 370px) {
+@media only screen and (min-width: 360px) {
     .text-01 {
-        height: 50%;
+        height: 335px;
         font-family: 'dbh_b';
         font-size: 1rem;
     }
     .text-01 .text {
-        margin-top: 86%;
+        margin-top: 326px;
     }
     .text-02 {
-        height: 16%;
+        height: 85px;
         font-family: 'dbh_r';
         font-size: 1.6rem;
     }
@@ -465,18 +464,18 @@ ul.block_list {
         margin-top: 1%;
     }
     .text-03 {
-        height: 16%;
+        height: 110px;
         font-family: 'dbh_r';
-        font-size: 0.85rem;
+        font-size: 0.7rem;
     }
     .text-03 .text {
         margin-top: 1%;
         padding: 10px 3%;
     }
     .text-04 {
-        height: 23%;
+        height: 142px;
         font-family: 'dbh_m';
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
     .text-04 .text {
         margin-top: 1%;
@@ -486,81 +485,81 @@ ul.block_list {
         font-size: 2em;
     }
     .text-05 {
-        height: 53%;
+        height: 336px;
         font-family: 'dbh_r';
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
     .text-05 .text {
         margin-top: 1%;
         padding: 10px 3%;
     }
     .video-01 {
-        height: 40%;
+        height: 255px;
     }
     .video-01 iframe {
         margin-left: 14%;
-        margin-top: 7%;
+        margin-top: 8%;
         width: 72%;
         height: 70%;
     }
     .text-06 {
-        height: 40%;
+        height: 257px;
         font-family: 'dbh_m';
-        font-size: 1rem;
+        font-size: 0.85rem;
     }
     .text-06 .text {
         margin-top: 7%;
         padding: 10px 12%;
     }
     .text-07 {
-        height: 27%;
+        height: 188px;
         font-family: 'dbh_m';
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
     .text-07 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-08 {
-        height: 39%;
+        height: 238px;
         font-family: 'dbh_l';
-        font-size: 1rem;
+        font-size: 0.85rem;
     }
     .text-08 .text {
         margin-top: 7%;
         padding: 10px 12%;
     }
     .text-09 {
-        height: 29%;
+        height: 200px;
         font-family: 'dbh_m';
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
     .text-09 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-10 {
-        height: 33%;
+        height: 206px;
         font-family: 'dbh_l';
-        font-size: 1rem;
+        font-size: 0.85rem;
     }
     .text-10 .text {
         margin-top: 7%;
         padding: 10px 12%;
     }
     .text-11 {
-        height: 60%;
+        height: 375px;
         font-family: 'dbh_m';
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
     .text-11 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-12 {
-        height: 30%;
+        height: 183px;
         font-family: 'dbh_r';
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     .text-12 .text {
         margin-top: 0%;
@@ -573,9 +572,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-13 {
-        height: 30%;
+        height: 203px;
         font-family: 'dbh_r';
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     .text-13 .text {
         margin-top: 0%;
@@ -588,9 +587,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-14 {
-        height: 30%;
+        height: 183px;
         font-family: 'dbh_r';
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     .text-14 .text {
         margin-top: 0%;
@@ -603,9 +602,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-15 {
-        height: 30%;
+        height: 192px;
         font-family: 'dbh_r';
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     .text-15 .text {
         margin-top: 0%;
@@ -618,9 +617,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-16 {
-        height: 43%;
+        height: 273px;
         font-family: 'dbh_r';
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     .text-16 .text {
         margin-top: 0%;
@@ -633,9 +632,204 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-17 {
-        height: 27%;
+        height: 166px;
+        font-family: 'dbh_m';
+        font-size: 0.7rem;
+    }
+    .text-17 .text {
+        margin-top: 0%;
+        padding: 10px 2%;
+    }
+}
+@media only screen and (min-width: 370px) {
+    .text-01 {
+        height: 335px;
+        font-family: 'dbh_b';
+        font-size: 1rem;
+    }
+    .text-01 .text {
+        margin-top: 326px;
+    }
+    .text-02 {
+        height: 114px;
+        font-family: 'dbh_r';
+        font-size: 1.6rem;
+    }
+    .text-02 .text {
+        margin-top: 1%;
+    }
+    .text-03 {
+        height: 110px;
+        font-family: 'dbh_r';
+        font-size: 0.7rem;
+    }
+    .text-03 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .text-04 {
+        height: 142px;
         font-family: 'dbh_m';
         font-size: 0.8rem;
+    }
+    .text-04 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .text-04 .text .big {
+        font-size: 2em;
+    }
+    .text-05 {
+        height: 350px;
+        font-family: 'dbh_r';
+        font-size: 0.8rem;
+    }
+    .text-05 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .video-01 {
+        height: 266px;
+    }
+    .video-01 iframe {
+        margin-left: 14%;
+        margin-top: 8%;
+        width: 72%;
+        height: 70%;
+    }
+    .text-06 {
+        height: 270px;
+        font-family: 'dbh_m';
+        font-size: 0.85rem;
+    }
+    .text-06 .text {
+        margin-top: 7%;
+        padding: 10px 12%;
+    }
+    .text-07 {
+        height: 200px;
+        font-family: 'dbh_m';
+        font-size: 0.7rem;
+    }
+    .text-07 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+    }
+    .text-08 {
+        height: 238px;
+        font-family: 'dbh_l';
+        font-size: 0.85rem;
+    }
+    .text-08 .text {
+        margin-top: 7%;
+        padding: 10px 12%;
+    }
+    .text-09 {
+        height: 200px;
+        font-family: 'dbh_m';
+        font-size: 0.7rem;
+    }
+    .text-09 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+    }
+    .text-10 {
+        height: 225px;
+        font-family: 'dbh_l';
+        font-size: 0.85rem;
+    }
+    .text-10 .text {
+        margin-top: 7%;
+        padding: 10px 12%;
+    }
+    .text-11 {
+        height: 395px;
+        font-family: 'dbh_m';
+        font-size: 0.7rem;
+    }
+    .text-11 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+    }
+    .text-12 {
+        height: 195px;
+        font-family: 'dbh_r';
+        font-size: 0.8rem;
+    }
+    .text-12 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-12 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-13 {
+        height: 203px;
+        font-family: 'dbh_r';
+        font-size: 0.8rem;
+    }
+    .text-13 .text {
+        margin-top: 0%;
+        margin-left: 5%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-13 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-14 {
+        height: 195px;
+        font-family: 'dbh_r';
+        font-size: 0.8rem;
+    }
+    .text-14 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-14 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-15 {
+        height: 195px;
+        font-family: 'dbh_r';
+        font-size: 0.8rem;
+    }
+    .text-15 .text {
+        margin-top: 0%;
+        margin-left: 5%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-15 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-16 {
+        height: 290px;
+        font-family: 'dbh_r';
+        font-size: 0.8rem;
+    }
+    .text-16 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-16 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-17 {
+        height: 166px;
+        font-family: 'dbh_m';
+        font-size: 0.7rem;
     }
     .text-17 .text {
         margin-top: 0%;
@@ -838,29 +1032,419 @@ ul.block_list {
         padding: 10px 2%;
     }
 }
+@media only screen and (min-width: 480px) {
+    .text-01 {
+            height: 422px;
+    font-family: 'dbh_b';
+    font-size: 1.5rem;
+    }
+    .text-01 .text {
+        margin-top: 412px;
+    }
+    .text-02 {
+        height: 160px;
+        font-family: 'dbh_r';
+        font-size: 2.5rem;
+    }
+    .text-02 .text {
+        margin-top: 1%;
+    }
+    .text-03 {
+        height: 120px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-03 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .text-04 {
+        height: 200px;
+        font-family: 'dbh_m';
+        font-size: 1rem;
+    }
+    .text-04 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .text-04 .text .big {
+        font-size: 2em;
+    }
+    .text-05 {
+        height: 460px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-05 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .video-01 {
+        height: 317px;
+    }
+    .video-01 iframe {
+        margin-left: 14%;
+        margin-top: 4%;
+        width: 72%;
+        height: 75%;
+    }
+    .text-06 {
+        height: 346px;
+        font-family: 'dbh_m';
+        font-size: 1rem;
+    }
+    .text-06 .text {
+        margin-top: 13%;
+        padding: 10px 12%;
+    }
+    .text-07 {
+        height: 247px;
+        font-family: 'dbh_m';
+        font-size: 0.8rem;
+    }
+    .text-07 .text {
+        margin-top: 3%;
+        padding: 10px 12%;
+    }
+    .text-08 {
+        height: 320px;
+        font-family: 'dbh_l';
+        font-size: 1rem;
+    }
+    .text-08 .text {
+        margin-top: 7%;
+        padding: 10px 12%;
+    }
+    .text-09 {
+        height: 248px;
+        font-family: 'dbh_m';
+        font-size: 0.8rem;
+    }
+    .text-09 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+    }
+    .text-10 {
+        height: 293px;
+        font-family: 'dbh_l';
+        font-size: 1rem;
+    }
+    .text-10 .text {
+        margin-top: 7%;
+        padding: 10px 12%;
+    }
+    .text-11 {
+        height: 500px;
+        font-family: 'dbh_m';
+        font-size: 0.8rem;
+    }
+    .text-11 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+    }
+    .text-12 {
+        height: 253px;
+        font-family: 'dbh_r';
+        font-size: 1rem;
+    }
+    .text-12 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-12 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-13 {
+        height: 262px;
+        font-family: 'dbh_r';
+        font-size: 1rem;
+    }
+    .text-13 .text {
+        margin-top: 0%;
+        margin-left: 5%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-13 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-14 {
+        height: 248px;
+        font-family: 'dbh_r';
+        font-size: 1rem;
+    }
+    .text-14 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-14 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-15 {
+        height: 255px;
+        font-family: 'dbh_r';
+        font-size: 1rem;
+    }
+    .text-15 .text {
+        margin-top: 0%;
+        margin-left: 0%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-15 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-16 {
+        height: 365px;
+        font-family: 'dbh_r';
+        font-size: 1rem;
+    }
+    .text-16 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-16 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-17 {
+        height: 200px;
+        font-family: 'dbh_m';
+        font-size: 0.8rem;
+    }
+    .text-17 .text {
+        margin-top: 0%;
+        padding: 10px 2%;
+    }
+}
 
+@media only screen and (min-width: 560px) {
+    .text-01 {
+        height: 508px;
+    font-family: 'dbh_b';
+    font-size: 1.5rem;
+    }
+    .text-01 .text {
+        margin-top: 495px;
+    }
+    .text-02 {
+            height: 162px;
+    font-family: 'dbh_r';
+    font-size: 2.5rem;
+    }
+    .text-02 .text {
+        margin-top: 1%;
+    }
+    .text-03 {
+            height: 178px;
+    font-family: 'dbh_r';
+    font-size: 1.2rem;
+    }
+    .text-03 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .text-04 {
+            height: 219px;
+    font-family: 'dbh_m';
+    font-size: 1.3rem;
+    }
+    .text-04 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .text-04 .text .big {
+        font-size: 2em;
+    }
+    .text-05 {
+            height: 542px;
+    font-family: 'dbh_r';
+    font-size: 1.3rem;
+    }
+    .text-05 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .video-01 {
+        height: 373px;
+    }
+    .video-01 iframe {
+        margin-left: 14%;
+        margin-top: 4%;
+        width: 72%;
+        height: 75%;
+    }
+    .text-06 {
+            height: 397px;
+    font-family: 'dbh_m';
+    font-size: 1.3rem;
+    }
+    .text-06 .text {
+        margin-top: 13%;
+        padding: 10px 12%;
+    }
+    .text-07 {
+            height: 291px;
+    font-family: 'dbh_m';
+    font-size: 1.2rem;
+    }
+    .text-07 .text {
+        margin-top: 3%;
+        padding: 10px 12%;
+    }
+    .text-08 {
+            height: 386px;
+    font-family: 'dbh_l';
+    font-size: 1.5rem;
+    }
+    .text-08 .text {
+        margin-top: 7%;
+        padding: 10px 12%;
+    }
+    .text-09 {
+            height: 288px;
+    font-family: 'dbh_m';
+    font-size: 1.1rem;
+    }
+    .text-09 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+    }
+    .text-10 {
+            height: 354px;
+    font-family: 'dbh_l';
+    font-size: 1.5rem;
+    }
+    .text-10 .text {
+        margin-top: 7%;
+        padding: 10px 12%;
+    }
+    .text-11 {
+        height: 610px;
+        font-family: 'dbh_m';
+        font-size: 1.2rem;
+    }
+    .text-11 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+    }
+    .text-12 {
+        height: 275px;
+        font-family: 'dbh_r';
+        font-size: 1.3rem;
+    }
+    .text-12 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-12 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-13 {
+        height: 312px;
+        font-family: 'dbh_r';
+        font-size: 1.3rem;
+    }
+    .text-13 .text {
+        margin-top: 0%;
+        margin-left: 5%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-13 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-14 {
+        height: 291px;
+        font-family: 'dbh_r';
+        font-size: 1.3rem;
+    }
+    .text-14 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-14 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-15 {
+        height: 304px;
+        font-family: 'dbh_r';
+        font-size: 1.3rem;
+    }
+    .text-15 .text {
+        margin-top: 0%;
+        margin-left: 0%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-15 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-16 {
+        height: 432px;
+        font-family: 'dbh_r';
+        font-size: 1.3rem;
+    }
+    .text-16 .text {
+        margin-top: 0%;
+        margin-left: 17%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-16 .text .head {
+        font-size: 1.3em;
+        font-family: 'dbh_m';
+    }
+    .text-17 {
+            height: 250px;
+    font-family: 'dbh_m';
+    font-size: 1.2rem;
+    }
+    .text-17 .text {
+        margin-top: 0%;
+        padding: 10px 2%;
+    }
+}
 
 @media only screen and (min-width: 760px) {
     .text-01 {
         height: 683px;
-    font-family: 'dbh_b';
-    font-size: 2rem;
+        font-family: 'dbh_b';
+        font-size: 2rem;
     }
     .text-01 .text {
         margin-top: 664px;
     }
     .text-02 {
-            height: 224px;
-    font-family: 'dbh_r';
-    font-size: 3rem;
+        height: 224px;
+        font-family: 'dbh_r';
+        font-size: 3rem;
     }
     .text-02 .text {
         margin-top: 1%;
     }
     .text-03 {
         height: 223px;
-    font-family: 'dbh_r';
-    font-size: 1.6rem;
+        font-family: 'dbh_r';
+        font-size: 1.6rem;
     }
     .text-03 .text {
         margin-top: 1%;
@@ -897,9 +1481,9 @@ ul.block_list {
         height: 75%;
     }
     .text-06 {
-            height: 530px;
-    font-family: 'dbh_m';
-    font-size: 2rem;
+        height: 530px;
+        font-family: 'dbh_m';
+        font-size: 2rem;
     }
     .text-06 .text {
         margin-top: 13%;
@@ -907,53 +1491,53 @@ ul.block_list {
     }
     .text-07 {
         height: 400px;
-    font-family: 'dbh_m';
-    font-size: 1.6rem;
+        font-family: 'dbh_m';
+        font-size: 1.6rem;
     }
     .text-07 .text {
         margin-top: 3%;
         padding: 10px 12%;
     }
     .text-08 {
-            height: 524px;
-    font-family: 'dbh_l';
-    font-size: 2rem;
+        height: 524px;
+        font-family: 'dbh_l';
+        font-size: 2rem;
     }
     .text-08 .text {
         margin-top: 7%;
         padding: 10px 12%;
     }
     .text-09 {
-            height: 400px;
-    font-family: 'dbh_m';
-    font-size: 1.6rem;
+        height: 400px;
+        font-family: 'dbh_m';
+        font-size: 1.6rem;
     }
     .text-09 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-10 {
-            height: 458px;
-    font-family: 'dbh_l';
-    font-size: 2rem;
+        height: 458px;
+        font-family: 'dbh_l';
+        font-size: 2rem;
     }
     .text-10 .text {
         margin-top: 7%;
         padding: 10px 12%;
     }
     .text-11 {
-            height: 810px;
-    font-family: 'dbh_m';
-    font-size: 1.6rem;
+        height: 810px;
+        font-family: 'dbh_m';
+        font-size: 1.6rem;
     }
     .text-11 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-12 {
-            height: 400px;
-    font-family: 'dbh_r';
-    font-size: 1.6rem;
+        height: 400px;
+        font-family: 'dbh_r';
+        font-size: 1.6rem;
     }
     .text-12 .text {
         margin-top: 0%;
@@ -966,9 +1550,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-13 {
-            height: 400px;
-    font-family: 'dbh_r';
-    font-size: 1.6rem;
+        height: 400px;
+        font-family: 'dbh_r';
+        font-size: 1.6rem;
     }
     .text-13 .text {
         margin-top: 0%;
@@ -981,9 +1565,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-14 {
-            height: 400px;
-    font-family: 'dbh_r';
-    font-size: 1.6rem;
+        height: 400px;
+        font-family: 'dbh_r';
+        font-size: 1.6rem;
     }
     .text-14 .text {
         margin-top: 0%;
@@ -996,9 +1580,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-15 {
-            height: 400px;
-    font-family: 'dbh_r';
-    font-size: 1.6rem;
+        height: 400px;
+        font-family: 'dbh_r';
+        font-size: 1.6rem;
     }
     .text-15 .text {
         margin-top: 0%;
@@ -1011,9 +1595,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-16 {
-            height: 600px;
-    font-family: 'dbh_r';
-    font-size: 1.6rem;
+        height: 600px;
+        font-family: 'dbh_r';
+        font-size: 1.6rem;
     }
     .text-16 .text {
         margin-top: 0%;
@@ -1026,9 +1610,9 @@ ul.block_list {
         font-family: 'dbh_m';
     }
     .text-17 {
-            height: 340px;
-    font-family: 'dbh_m';
-    font-size: 1.6rem;
+        height: 340px;
+        font-family: 'dbh_m';
+        font-size: 1.6rem;
     }
     .text-17 .text {
         margin-top: 0%;
