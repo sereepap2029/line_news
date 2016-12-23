@@ -2,6 +2,7 @@ html,
 body {
     width: 100%;
     overflow-x: hidden;
+    background-color: #b9b9b9;
 }
 
 img {
@@ -290,7 +291,7 @@ ul.block_list {
 }
 
 .text-06 {
-        height: 307px;
+    height: 307px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
     margin-top: 44px;
@@ -322,6 +323,7 @@ ul.block_list {
     margin-top: 7%;
     padding: 10px 12%;
 }
+
 .text-08 .text .big {
     font-size: 1.3em
 }
@@ -369,11 +371,10 @@ ul.block_list {
     margin-top: 0%;
     margin-left: 17%;
     padding: 10px 12%;
-    
 }
 
 .text-12 .text .head {
-        font-size: 1.8em;
+    font-size: 1.8em;
     font-family: 'dbh_m';
     color: #856f54;
 }
@@ -391,12 +392,13 @@ ul.block_list {
 }
 
 .text-13 .text .head {
-        font-size: 1.8em;
+    font-size: 1.8em;
     font-family: 'dbh_m';
     color: #856f54;
 }
+
 .text-13 .text .head2 {
-        font-size: 1em;
+    font-size: 1em;
     font-family: 'dbh_m';
     color: #856f54;
 }
@@ -414,45 +416,9 @@ ul.block_list {
 }
 
 .text-14 .text .head {
-        font-size: 1.8em;
+    font-size: 1.8em;
     font-family: 'dbh_m';
     color: #856f54;
-}
-
-.text-15 {
-    height: 168px;
-    font-family: 'dbh_r';
-    font-size: 0.8rem;
-}
-
-.text-15 .text {
-    margin-top: 0%;
-    margin-left: 5%;
-    padding: 10px 12%;
-    color: #464647;
-}
-
-.text-15 .text .head {
-    font-size: 1.3em;
-    font-family: 'dbh_m';
-}
-
-.text-16 {
-    height: 244px;
-    font-family: 'dbh_r';
-    font-size: 0.8rem;
-}
-
-.text-16 .text {
-    margin-top: 0%;
-    margin-left: 17%;
-    padding: 10px 12%;
-    color: #464647;
-}
-
-.text-16 .text .head {
-    font-size: 1.3em;
-    font-family: 'dbh_m';
 }
 
 .text-17 {
@@ -509,7 +475,7 @@ ul.block_list {
         font-size: 2em;
     }
     .text-05 {
-        height: 336px;
+        height: 369px;
         font-family: 'dbh_r';
         font-size: 0.8rem;
     }
@@ -535,27 +501,28 @@ ul.block_list {
         pointer-events: none;
     }
     .text-06 {
-        height: 257px;
+        height: 345px;
         font-family: 'dbh_m';
-        font-size: 0.85rem;
+        font-size: 0.9rem;
+        margin-top: 57px;
     }
     .text-06 .text {
         margin-top: 7%;
         padding: 10px 12%;
     }
     .text-07 {
-        height: 188px;
+        height: 220px;
         font-family: 'dbh_m';
-        font-size: 0.7rem;
+        font-size: 0.8rem;
     }
     .text-07 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-08 {
-        height: 238px;
+        height: 472px;
         font-family: 'dbh_l';
-        font-size: 0.85rem;
+        font-size: 0.9rem;
     }
     .text-08 .text {
         margin-top: 7%;
@@ -564,16 +531,16 @@ ul.block_list {
     .text-09 {
         height: 200px;
         font-family: 'dbh_m';
-        font-size: 0.7rem;
+        font-size: 0.65rem;
     }
     .text-09 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-10 {
-        height: 206px;
+        height: 507px;
         font-family: 'dbh_l';
-        font-size: 0.85rem;
+        font-size: 0.9rem;
     }
     .text-10 .text {
         margin-top: 7%;
@@ -589,900 +556,59 @@ ul.block_list {
         padding: 10px 12%;
     }
     .text-12 {
-        height: 183px;
+        height: 131px;
         font-family: 'dbh_r';
-        font-size: 0.8rem;
+        font-size: 0.9rem;
     }
     .text-12 .text {
         margin-top: 0%;
         margin-left: 17%;
         padding: 10px 12%;
-        color: #464647;
     }
     .text-12 .text .head {
-        font-size: 1.3em;
+        font-size: 1.8em;
         font-family: 'dbh_m';
+        color: #856f54;
     }
     .text-13 {
-        height: 203px;
+        height: 186px;
         font-family: 'dbh_r';
-        font-size: 0.8rem;
+        font-size: 0.9rem;
     }
     .text-13 .text {
         margin-top: 0%;
-        margin-left: 5%;
+        margin-left: 17%;
         padding: 10px 12%;
-        color: #464647;
     }
     .text-13 .text .head {
-        font-size: 1.3em;
+        font-size: 1.8em;
         font-family: 'dbh_m';
+        color: #856f54;
+    }
+    .text-13 .text .head2 {
+        font-size: 1em;
+        font-family: 'dbh_m';
+        color: #856f54;
     }
     .text-14 {
-        height: 183px;
+        height: 220px;
         font-family: 'dbh_r';
-        font-size: 0.8rem;
+        font-size: 0.9rem;
     }
     .text-14 .text {
         margin-top: 0%;
         margin-left: 17%;
         padding: 10px 12%;
-        color: #464647;
     }
     .text-14 .text .head {
-        font-size: 1.3em;
+        font-size: 1.8em;
         font-family: 'dbh_m';
-    }
-    .text-15 {
-        height: 192px;
-        font-family: 'dbh_r';
-        font-size: 0.8rem;
-    }
-    .text-15 .text {
-        margin-top: 0%;
-        margin-left: 5%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-15 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-16 {
-        height: 273px;
-        font-family: 'dbh_r';
-        font-size: 0.8rem;
-    }
-    .text-16 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-16 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
+        color: #856f54;
     }
     .text-17 {
         height: 166px;
         font-family: 'dbh_m';
-        font-size: 0.7rem;
-    }
-    .text-17 .text {
-        margin-top: 0%;
-        padding: 10px 2%;
-    }
-}
-
-@media only screen and (min-width: 375px) {
-    body {
-        max-width: 375px;
-        margin: 0px auto;
-    }
-    .text-01 {
-        height: 335px;
-        font-family: 'dbh_b';
-        font-size: 1rem;
-    }
-    .text-01 .text {
-        margin-top: 326px;
-    }
-    .text-02 {
-        height: 114px;
-        font-family: 'dbh_r';
-        font-size: 1.6rem;
-    }
-    .text-02 .text {
-        margin-top: 1%;
-    }
-    .text-03 {
-        height: 110px;
-        font-family: 'dbh_r';
-        font-size: 0.7rem;
-    }
-    .text-03 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .text-04 {
-        height: 142px;
-        font-family: 'dbh_m';
         font-size: 0.8rem;
-    }
-    .text-04 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .text-04 .text .big {
-        font-size: 2em;
-    }
-    .text-05 {
-        height: 350px;
-        font-family: 'dbh_r';
-        font-size: 0.8rem;
-    }
-    .text-05 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .video-01 {
-        height: 266px;
-    }
-    .video-01 iframe {
-        margin-left: 14%;
-        margin-top: 8%;
-        width: 72%;
-        height: 70%;
-    }
-    .text-06 {
-        height: 270px;
-        font-family: 'dbh_m';
-        font-size: 0.85rem;
-    }
-    .text-06 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-07 {
-        height: 200px;
-        font-family: 'dbh_m';
-        font-size: 0.7rem;
-    }
-    .text-07 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-08 {
-        height: 238px;
-        font-family: 'dbh_l';
-        font-size: 0.85rem;
-    }
-    .text-08 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-09 {
-        height: 200px;
-        font-family: 'dbh_m';
-        font-size: 0.7rem;
-    }
-    .text-09 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-10 {
-        height: 225px;
-        font-family: 'dbh_l';
-        font-size: 0.85rem;
-    }
-    .text-10 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-11 {
-        height: 395px;
-        font-family: 'dbh_m';
-        font-size: 0.7rem;
-    }
-    .text-11 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-12 {
-        height: 195px;
-        font-family: 'dbh_r';
-        font-size: 0.8rem;
-    }
-    .text-12 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-12 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-13 {
-        height: 203px;
-        font-family: 'dbh_r';
-        font-size: 0.8rem;
-    }
-    .text-13 .text {
-        margin-top: 0%;
-        margin-left: 5%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-13 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-14 {
-        height: 195px;
-        font-family: 'dbh_r';
-        font-size: 0.8rem;
-    }
-    .text-14 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-14 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-15 {
-        height: 195px;
-        font-family: 'dbh_r';
-        font-size: 0.8rem;
-    }
-    .text-15 .text {
-        margin-top: 0%;
-        margin-left: 5%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-15 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-16 {
-        height: 290px;
-        font-family: 'dbh_r';
-        font-size: 0.8rem;
-    }
-    .text-16 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-16 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-17 {
-        height: 166px;
-        font-family: 'dbh_m';
-        font-size: 0.7rem;
-    }
-    .text-17 .text {
-        margin-top: 0%;
-        padding: 10px 2%;
-    }
-}
-
-@media only screen and (min-width: 414px) {
-    body {
-        max-width: 414px;
-        margin: 0px auto;
-    }
-    .text-01 {
-        height: 363px;
-        font-family: 'dbh_b';
-        font-size: 1rem;
-    }
-    .text-01 .text {
-        margin-top: 358px;
-    }
-    .text-02 {
-        height: 120px;
-        font-family: 'dbh_r';
-        font-size: 1.6rem;
-    }
-    .text-02 .text {
-        margin-top: 1%;
-    }
-    .text-03 {
-        height: 120px;
-        font-family: 'dbh_r';
-        font-size: 0.9rem;
-    }
-    .text-03 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .text-04 {
-        height: 170px;
-        font-family: 'dbh_m';
-        font-size: 1rem;
-    }
-    .text-04 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .text-04 .text .big {
-        font-size: 2em;
-    }
-    .text-05 {
-        height: 396px;
-        font-family: 'dbh_r';
-        font-size: 0.9rem;
-    }
-    .text-05 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .video-01 {
-        height: 274px;
-    }
-    .video-01 iframe {
-        margin-left: 14%;
-        margin-top: 4%;
-        width: 72%;
-        height: 75%;
-    }
-    .video-01 .frame {
-        position: absolute;
-        left: 8%;
-        top: -1%;
-        width: 85%;
-        height: 94%;
-        pointer-events: none;
-    }
-    .text-06 {
-        height: 288px;
-        font-family: 'dbh_m';
-        font-size: 1rem;
-    }
-    .text-06 .text {
-        margin-top: 13%;
-        padding: 10px 12%;
-    }
-    .text-07 {
-        height: 216px;
-        font-family: 'dbh_m';
-        font-size: 0.8rem;
-    }
-    .text-07 .text {
-        margin-top: 3%;
-        padding: 10px 12%;
-    }
-    .text-08 {
-        height: 285px;
-        font-family: 'dbh_l';
-        font-size: 1rem;
-    }
-    .text-08 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-09 {
-        height: 217px;
-        font-family: 'dbh_m';
-        font-size: 0.8rem;
-    }
-    .text-09 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-10 {
-        height: 228px;
-        font-family: 'dbh_l';
-        font-size: 1rem;
-    }
-    .text-10 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-11 {
-        height: 437px;
-        font-family: 'dbh_m';
-        font-size: 0.8rem;
-    }
-    .text-11 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-12 {
-        height: 221px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-12 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-12 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-13 {
-        height: 217px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-13 .text {
-        margin-top: 0%;
-        margin-left: 5%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-13 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-14 {
-        height: 221px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-14 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-14 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-15 {
-        height: 217px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-15 .text {
-        margin-top: 0%;
-        margin-left: 0%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-15 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-16 {
-        height: 313px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-16 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-16 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-17 {
-        height: 187px;
-        font-family: 'dbh_m';
-        font-size: 0.8rem;
-    }
-    .text-17 .text {
-        margin-top: 0%;
-        padding: 10px 2%;
-    }
-}
-
-@media only screen and (min-width: 480px) {
-    body {
-        max-width: 480px;
-        margin: 0px auto;
-    }
-    .text-01 {
-        height: 422px;
-        font-family: 'dbh_b';
-        font-size: 1.5rem;
-    }
-    .text-01 .text {
-        margin-top: 412px;
-    }
-    .text-02 {
-        height: 160px;
-        font-family: 'dbh_r';
-        font-size: 2.5rem;
-    }
-    .text-02 .text {
-        margin-top: 1%;
-    }
-    .text-03 {
-        height: 120px;
-        font-family: 'dbh_r';
-        font-size: 0.9rem;
-    }
-    .text-03 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .text-04 {
-        height: 200px;
-        font-family: 'dbh_m';
-        font-size: 1rem;
-    }
-    .text-04 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .text-04 .text .big {
-        font-size: 2em;
-    }
-    .text-05 {
-        height: 460px;
-        font-family: 'dbh_r';
-        font-size: 0.9rem;
-    }
-    .text-05 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .video-01 {
-        height: 317px;
-    }
-    .video-01 iframe {
-        margin-left: 14%;
-        margin-top: 4%;
-        width: 72%;
-        height: 75%;
-    }
-    .video-01 .frame {
-        position: absolute;
-        left: 8%;
-        top: -4%;
-        width: 85%;
-        height: 94%;
-        pointer-events: none;
-    }
-    .text-06 {
-        height: 346px;
-        font-family: 'dbh_m';
-        font-size: 1rem;
-    }
-    .text-06 .text {
-        margin-top: 13%;
-        padding: 10px 12%;
-    }
-    .text-07 {
-        height: 247px;
-        font-family: 'dbh_m';
-        font-size: 0.8rem;
-    }
-    .text-07 .text {
-        margin-top: 3%;
-        padding: 10px 12%;
-    }
-    .text-08 {
-        height: 320px;
-        font-family: 'dbh_l';
-        font-size: 1rem;
-    }
-    .text-08 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-09 {
-        height: 248px;
-        font-family: 'dbh_m';
-        font-size: 0.8rem;
-    }
-    .text-09 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-10 {
-        height: 293px;
-        font-family: 'dbh_l';
-        font-size: 1rem;
-    }
-    .text-10 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-11 {
-        height: 500px;
-        font-family: 'dbh_m';
-        font-size: 0.8rem;
-    }
-    .text-11 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-12 {
-        height: 253px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-12 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-12 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-13 {
-        height: 262px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-13 .text {
-        margin-top: 0%;
-        margin-left: 5%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-13 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-14 {
-        height: 248px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-14 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-14 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-15 {
-        height: 255px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-15 .text {
-        margin-top: 0%;
-        margin-left: 0%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-15 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-16 {
-        height: 365px;
-        font-family: 'dbh_r';
-        font-size: 1rem;
-    }
-    .text-16 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-16 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-17 {
-        height: 200px;
-        font-family: 'dbh_m';
-        font-size: 0.8rem;
-    }
-    .text-17 .text {
-        margin-top: 0%;
-        padding: 10px 2%;
-    }
-}
-
-@media only screen and (min-width: 568px) {
-    body {
-        max-width: 568px;
-        margin: 0px auto;
-    }
-    .text-01 {
-        height: 508px;
-        font-family: 'dbh_b';
-        font-size: 1.5rem;
-    }
-    .text-01 .text {
-        margin-top: 495px;
-    }
-    .text-02 {
-        height: 162px;
-        font-family: 'dbh_r';
-        font-size: 2.5rem;
-    }
-    .text-02 .text {
-        margin-top: 1%;
-    }
-    .text-03 {
-        height: 178px;
-        font-family: 'dbh_r';
-        font-size: 1.2rem;
-    }
-    .text-03 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .text-04 {
-        height: 219px;
-        font-family: 'dbh_m';
-        font-size: 1.3rem;
-    }
-    .text-04 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .text-04 .text .big {
-        font-size: 2em;
-    }
-    .text-05 {
-        height: 542px;
-        font-family: 'dbh_r';
-        font-size: 1.3rem;
-    }
-    .text-05 .text {
-        margin-top: 1%;
-        padding: 10px 3%;
-    }
-    .video-01 {
-        height: 373px;
-    }
-    .video-01 iframe {
-        margin-left: 14%;
-        margin-top: 4%;
-        width: 72%;
-        height: 75%;
-    }
-    .text-06 {
-        height: 397px;
-        font-family: 'dbh_m';
-        font-size: 1.3rem;
-    }
-    .text-06 .text {
-        margin-top: 13%;
-        padding: 10px 12%;
-    }
-    .text-07 {
-        height: 291px;
-        font-family: 'dbh_m';
-        font-size: 1.2rem;
-    }
-    .text-07 .text {
-        margin-top: 3%;
-        padding: 10px 12%;
-    }
-    .text-08 {
-        height: 386px;
-        font-family: 'dbh_l';
-        font-size: 1.5rem;
-    }
-    .text-08 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-09 {
-        height: 288px;
-        font-family: 'dbh_m';
-        font-size: 1.1rem;
-    }
-    .text-09 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-10 {
-        height: 354px;
-        font-family: 'dbh_l';
-        font-size: 1.5rem;
-    }
-    .text-10 .text {
-        margin-top: 7%;
-        padding: 10px 12%;
-    }
-    .text-11 {
-        height: 610px;
-        font-family: 'dbh_m';
-        font-size: 1.2rem;
-    }
-    .text-11 .text {
-        margin-top: 0%;
-        padding: 10px 12%;
-    }
-    .text-12 {
-        height: 275px;
-        font-family: 'dbh_r';
-        font-size: 1.3rem;
-    }
-    .text-12 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-12 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-13 {
-        height: 312px;
-        font-family: 'dbh_r';
-        font-size: 1.3rem;
-    }
-    .text-13 .text {
-        margin-top: 0%;
-        margin-left: 5%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-13 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-14 {
-        height: 291px;
-        font-family: 'dbh_r';
-        font-size: 1.3rem;
-    }
-    .text-14 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-14 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-15 {
-        height: 304px;
-        font-family: 'dbh_r';
-        font-size: 1.3rem;
-    }
-    .text-15 .text {
-        margin-top: 0%;
-        margin-left: 0%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-15 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-16 {
-        height: 432px;
-        font-family: 'dbh_r';
-        font-size: 1.3rem;
-    }
-    .text-16 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-16 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-17 {
-        height: 250px;
-        font-family: 'dbh_m';
-        font-size: 1.2rem;
     }
     .text-17 .text {
         margin-top: 0%;
@@ -1533,7 +659,7 @@ ul.block_list {
         font-size: 2em;
     }
     .text-05 {
-        height: 708px;
+        height: 748px;
         font-family: 'dbh_r';
         font-size: 1.7rem;
     }
@@ -1542,25 +668,26 @@ ul.block_list {
         padding: 10px 3%;
     }
     .video-01 {
-        height: 506px;
+        height: 538px;
     }
     .video-01 iframe {
         margin-left: 14%;
         margin-top: 4%;
         width: 72%;
-        height: 75%;
+        height: 77%;
     }
     .text-06 {
-        height: 530px;
-        font-family: 'dbh_m';
-        font-size: 2rem;
+        height: 755px;
+    font-family: 'dbh_m';
+    font-size: 1.9rem;
+    margin-top: 70px;
     }
     .text-06 .text {
         margin-top: 13%;
         padding: 10px 12%;
     }
     .text-07 {
-        height: 400px;
+        height: 463px;
         font-family: 'dbh_m';
         font-size: 1.6rem;
     }
@@ -1569,7 +696,7 @@ ul.block_list {
         padding: 10px 12%;
     }
     .text-08 {
-        height: 524px;
+        height: 1046px;
         font-family: 'dbh_l';
         font-size: 2rem;
     }
@@ -1580,14 +707,14 @@ ul.block_list {
     .text-09 {
         height: 400px;
         font-family: 'dbh_m';
-        font-size: 1.6rem;
+        font-size: 1.4rem;
     }
     .text-09 .text {
         margin-top: 0%;
         padding: 10px 12%;
     }
     .text-10 {
-        height: 458px;
+        height: 1082px;
         font-family: 'dbh_l';
         font-size: 2rem;
     }
@@ -1596,7 +723,7 @@ ul.block_list {
         padding: 10px 12%;
     }
     .text-11 {
-        height: 810px;
+        height: 827px;
         font-family: 'dbh_m';
         font-size: 1.6rem;
     }
@@ -1605,84 +732,59 @@ ul.block_list {
         padding: 10px 12%;
     }
     .text-12 {
-        height: 400px;
+        height: 274px;
         font-family: 'dbh_r';
-        font-size: 1.6rem;
+        font-size: 2rem;
     }
     .text-12 .text {
         margin-top: 0%;
         margin-left: 17%;
         padding: 10px 12%;
-        color: #464647;
     }
     .text-12 .text .head {
-        font-size: 1.3em;
+        font-size: 1.8em;
         font-family: 'dbh_m';
+        color: #856f54;
     }
     .text-13 {
-        height: 400px;
+        height: 394px;
         font-family: 'dbh_r';
-        font-size: 1.6rem;
+        font-size: 2rem;
     }
     .text-13 .text {
         margin-top: 0%;
-        margin-left: 5%;
+        margin-left: 17%;
         padding: 10px 12%;
-        color: #464647;
     }
     .text-13 .text .head {
-        font-size: 1.3em;
+        font-size: 1.8em;
         font-family: 'dbh_m';
+        color: #856f54;
+    }
+    .text-13 .text .head2 {
+        font-size: 1em;
+        font-family: 'dbh_m';
+        color: #856f54;
     }
     .text-14 {
-        height: 400px;
+        height: 483px;
         font-family: 'dbh_r';
-        font-size: 1.6rem;
+        font-size: 2rem;
     }
     .text-14 .text {
         margin-top: 0%;
         margin-left: 17%;
         padding: 10px 12%;
-        color: #464647;
     }
     .text-14 .text .head {
-        font-size: 1.3em;
+        font-size: 1.8em;
         font-family: 'dbh_m';
-    }
-    .text-15 {
-        height: 400px;
-        font-family: 'dbh_r';
-        font-size: 1.6rem;
-    }
-    .text-15 .text {
-        margin-top: 0%;
-        margin-left: 0%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-15 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
-    }
-    .text-16 {
-        height: 600px;
-        font-family: 'dbh_r';
-        font-size: 1.6rem;
-    }
-    .text-16 .text {
-        margin-top: 0%;
-        margin-left: 17%;
-        padding: 10px 12%;
-        color: #464647;
-    }
-    .text-16 .text .head {
-        font-size: 1.3em;
-        font-family: 'dbh_m';
+        color: #856f54;
     }
     .text-17 {
-        height: 340px;
+        height: 363px;
         font-family: 'dbh_m';
-        font-size: 1.6rem;
+        font-size: 1.5rem;
     }
     .text-17 .text {
         margin-top: 0%;
