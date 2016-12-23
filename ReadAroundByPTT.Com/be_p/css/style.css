@@ -18,7 +18,7 @@ h2 {
 
 p {
     font-size: 1.8em;
-    line-height: 1em;
+    line-height: 1.08em;
 }
 
 li {
@@ -259,7 +259,7 @@ ul.block_list {
 }
 
 .text-05 {
-    height: 303px;
+    height: 332px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -290,9 +290,10 @@ ul.block_list {
 }
 
 .text-06 {
-    height: 225px;
-    font-family: 'dbh_m';
-    font-size: 0.85rem;
+        height: 307px;
+    font-family: 'dbh_r';
+    font-size: 0.8rem;
+    margin-top: 44px;
 }
 
 .text-06 .text {
@@ -301,7 +302,7 @@ ul.block_list {
 }
 
 .text-07 {
-    height: 160px;
+    height: 185px;
     font-family: 'dbh_m';
     font-size: 0.7rem;
 }
@@ -312,7 +313,7 @@ ul.block_list {
 }
 
 .text-08 {
-    height: 211px;
+    height: 433px;
     font-family: 'dbh_l';
     font-size: 0.85rem;
 }
@@ -321,11 +322,14 @@ ul.block_list {
     margin-top: 7%;
     padding: 10px 12%;
 }
+.text-08 .text .big {
+    font-size: 1.3em
+}
 
 .text-09 {
-    height: 177px;
+    height: 185px;
     font-family: 'dbh_m';
-    font-size: 0.7rem;
+    font-size: 0.6rem;
 }
 
 .text-09 .text {
@@ -334,7 +338,7 @@ ul.block_list {
 }
 
 .text-10 {
-    height: 180px;
+    height: 446px;
     font-family: 'dbh_l';
     font-size: 0.85rem;
 }
@@ -345,7 +349,7 @@ ul.block_list {
 }
 
 .text-11 {
-    height: 346px;
+    height: 337px;
     font-family: 'dbh_m';
     font-size: 0.7rem;
 }
@@ -356,7 +360,7 @@ ul.block_list {
 }
 
 .text-12 {
-    height: 168px;
+    height: 112px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -365,12 +369,13 @@ ul.block_list {
     margin-top: 0%;
     margin-left: 17%;
     padding: 10px 12%;
-    color: #464647;
+    
 }
 
 .text-12 .text .head {
-    font-size: 1.3em;
+        font-size: 1.8em;
     font-family: 'dbh_m';
+    color: #856f54;
 }
 
 .text-13 {
@@ -381,18 +386,23 @@ ul.block_list {
 
 .text-13 .text {
     margin-top: 0%;
-    margin-left: 5%;
+    margin-left: 17%;
     padding: 10px 12%;
-    color: #464647;
 }
 
 .text-13 .text .head {
-    font-size: 1.3em;
+        font-size: 1.8em;
     font-family: 'dbh_m';
+    color: #856f54;
+}
+.text-13 .text .head2 {
+        font-size: 1em;
+    font-family: 'dbh_m';
+    color: #856f54;
 }
 
 .text-14 {
-    height: 168px;
+    height: 195px;
     font-family: 'dbh_r';
     font-size: 0.8rem;
 }
@@ -401,12 +411,12 @@ ul.block_list {
     margin-top: 0%;
     margin-left: 17%;
     padding: 10px 12%;
-    color: #464647;
 }
 
 .text-14 .text .head {
-    font-size: 1.3em;
+        font-size: 1.8em;
     font-family: 'dbh_m';
+    color: #856f54;
 }
 
 .text-15 {
