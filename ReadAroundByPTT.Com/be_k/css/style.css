@@ -697,6 +697,235 @@ ul.block_list {
     }
 }
 
+@media only screen and (min-width: 480px) {
+    body {
+        max-width: 480px;
+        margin: 0px auto;
+    }
+    .text-01 {
+        height: 422px;
+        font-family: 'dbh_b';
+        font-size: 1.5rem;
+    }
+    .text-01 .text {
+        margin-top: 412px;
+    }
+    .text-02 {
+        height: 160px;
+        font-family: 'dbh_r';
+        font-size: 2.5rem;
+    }
+    .text-02 .text {
+        margin-top: 1%;
+    }
+    .text-03 {
+        height: 120px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-03 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .text-04 {
+        height: 200px;
+        font-family: 'dbh_m';
+        font-size: 1rem;
+    }
+    .text-04 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .text-04 .text .big {
+        font-size: 2em;
+    }
+    .text-05 {
+        height: 478px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-05 .text {
+        margin-top: 1%;
+        padding: 10px 3%;
+    }
+    .video-01 {
+        height: 317px;
+    }
+    .video-01 iframe {
+        margin-left: 14%;
+        margin-top: 4%;
+        width: 72%;
+        height: 75%;
+    }
+    .video-01 .frame {
+        position: absolute;
+        left: 8%;
+        top: -4%;
+        width: 85%;
+        height: 94%;
+        pointer-events: none;
+    }
+    .text-06 {
+        height: 825px;
+        font-family: 'dbh_m';
+        font-size: 1.1rem;
+        margin-top: 54px;
+    }
+    .text-06 .text {
+        margin-top: 13%;
+        padding: 10px 12%;
+    }
+    .text-07 {
+        height: 322px;
+        font-family: 'dbh_m';
+        font-size: 0.9rem;
+    }
+    .text-07 .text {
+        margin-top: 3%;
+        padding: 10px 12%;
+    }
+    .text-08 {
+        height: 1338px;
+        font-family: 'dbh_l';
+        font-size: 1.15rem;
+    }
+    .text-08 .text {
+        margin-top: 7%;
+        padding: 10px 12%;
+    }
+    .text-08 .text p {
+        line-height: 34px;
+    }
+    .text-09 {
+        height: 526px;
+        font-family: 'dbh_m';
+        font-size: 0.8rem;
+    }
+    .text-09 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+    }
+    .text-12 {
+        height: 287px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-12 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-12 .text .head {
+        font-size: 1.6em;
+        font-family: 'dbh_r';
+        line-height: 52px;
+        margin-bottom: 9px;
+        display: block;
+    }
+    .text-12 .text .big {
+        font-size: 2.3em;
+        font-family: 'dbh_r';
+        margin-left: 34px;
+    }
+    .text-13 {
+        height: 296px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-13 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-13 .text .head {
+        font-size: 1.6em;
+    font-family: 'dbh_r';
+    line-height: 45px;
+    margin-left: 102px;
+    display: block;
+    }
+    .text-13 .text .big {
+        font-size: 2.3em;
+        font-family: 'dbh_r';
+        margin-left: 44px;
+    }
+    .text-14 {
+        height: 283px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-14 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-14 .text .head {
+            font-size: 1.6em;
+    font-family: 'dbh_r';
+    line-height: 37px;
+    margin-left: 107px;
+    display: block;
+    }
+    .text-14 .text .big {
+        font-size: 2.3em;
+        font-family: 'dbh_r';
+        margin-left: 36px;
+    }
+    .text-15 {
+        height: 288px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-15 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-15 .text .head {
+            font-size: 1.6em;
+    font-family: 'dbh_r';
+    line-height: 48px;
+    margin-left: 87px;
+    display: block;
+    }
+    .text-15 .text .big {
+        font-size: 2.3em;
+        font-family: 'dbh_r';
+        margin-left: 36px;
+    }
+    .text-16 {
+        height: 390px;
+        font-family: 'dbh_r';
+        font-size: 0.9rem;
+    }
+    .text-16 .text {
+        margin-top: 0%;
+        padding: 10px 12%;
+        color: #464647;
+    }
+    .text-16 .text .head {
+        font-size: 1.6em;
+    font-family: 'dbh_r';
+    line-height: 30px;
+    margin-left: 13px;
+    display: block;
+    }
+    .text-16 .text .big {
+        font-size: 2.3em;
+        font-family: 'dbh_r';
+        margin-left: 36px;
+    }
+    .text-17 {
+        height: 153px;
+        font-family: 'dbh_m';
+        font-size: 1.6rem;
+    }
+    .text-17 .text {
+        margin-top: 0%;
+        padding: 10px 2%;
+    }
+}
+
 @media only screen and (min-width: 768px) {
     body {
         max-width: 768px;
@@ -810,10 +1039,10 @@ ul.block_list {
     }
     .text-12 .text .head {
         font-size: 1.6em;
-    font-family: 'dbh_r';
-    line-height: 52px;
-    margin-bottom: 9px;
-    display: block;
+        font-family: 'dbh_r';
+        line-height: 52px;
+        margin-bottom: 9px;
+        display: block;
     }
     .text-12 .text .big {
         font-size: 2.3em;
@@ -832,10 +1061,10 @@ ul.block_list {
     }
     .text-13 .text .head {
         font-size: 1.6em;
-    font-family: 'dbh_r';
-    line-height: 57px;
-    margin-left: 137px;
-    display: block;
+        font-family: 'dbh_r';
+        line-height: 57px;
+        margin-left: 137px;
+        display: block;
     }
     .text-13 .text .big {
         font-size: 2.3em;
@@ -854,10 +1083,10 @@ ul.block_list {
     }
     .text-14 .text .head {
         font-size: 1.6em;
-    font-family: 'dbh_r';
-    line-height: 57px;
-    margin-left: 184px;
-    display: block;
+        font-family: 'dbh_r';
+        line-height: 57px;
+        margin-left: 184px;
+        display: block;
     }
     .text-14 .text .big {
         font-size: 2.3em;
@@ -876,10 +1105,10 @@ ul.block_list {
     }
     .text-15 .text .head {
         font-size: 1.6em;
-    font-family: 'dbh_r';
-    line-height: 57px;
-    margin-left: 132px;
-    display: block;
+        font-family: 'dbh_r';
+        line-height: 57px;
+        margin-left: 132px;
+        display: block;
     }
     .text-15 .text .big {
         font-size: 2.3em;
@@ -898,10 +1127,10 @@ ul.block_list {
     }
     .text-16 .text .head {
         font-size: 1.6em;
-    font-family: 'dbh_r';
-    line-height: 57px;
-    margin-left: 5px;
-    display: block;
+        font-family: 'dbh_r';
+        line-height: 57px;
+        margin-left: 5px;
+        display: block;
     }
     .text-16 .text .big {
         font-size: 2.3em;
