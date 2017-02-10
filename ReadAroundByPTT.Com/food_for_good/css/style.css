@@ -114,11 +114,15 @@
      }
      
      .text_blue {
-         color: #0074ff !important;
+         color: #00A7E8 !important;
      }
      
      .text_pink {
          color: #ff54ff !important;
+     }
+     
+     .text_green {
+         color: #97C140 !important;
      }
      
      .text_gray {
@@ -208,7 +212,7 @@
      
      .shared_t03 {
          height: 442px;
-        top: -60px;
+         top: -60px;
      }
      
      .shared_t04 {
@@ -265,6 +269,63 @@
      
      .know_t08 {
          height: 450px;
+     }
+     
+     .change_t02 {
+         height: 700px;
+     }
+     
+     .change_t02 .text {
+         margin-top: 420px;
+     }
+     
+     .change_t03 {
+         height: 1330px;
+     }
+     
+     .change_t03 .text {
+         margin-top: 960px;
+     }
+     
+     .change_t04 {
+         height: 384px;
+         top: -70px;
+     }
+     
+     .change_t05 {
+         height: 610px;
+     }
+     
+     .change_t05 .text {
+         margin-top: 0px;
+     }
+     
+     .change_t06 {
+         height: 355px;
+     }
+     
+     .change_t07 {
+         height: 1210px;
+     }
+     
+     .change_t07 .text {
+         margin-top: 0px;
+     }
+     
+     .change_t07 ul li {
+         list-style: none;
+         padding-left: 6%;
+         position: relative;
+     }
+     
+     .change_t07 ul li:before {
+         content: "•";
+         position: absolute;
+         font-size: 4em;
+         left: 0px;
+         font-family: montserratregular;
+         top: 20px;
+         color: #716552;
      }
      
      .s90 {
@@ -401,6 +462,12 @@
          background-repeat: repeat-y;
      }
      
+     .section-change {
+         background-color: #e9dbd2;
+         background-size: 100% auto;
+         background-repeat: repeat-y;
+     }
+     
      .foot li {
          list-style: none;
          display: inline;
@@ -434,7 +501,7 @@
              font-size: 1.8em;
          }
          p {
-             font-size: 1.6em;
+             font-size: 1.8em;
          }
          .text_big {
              font-size: 2.4em;
@@ -483,7 +550,7 @@
      
      @media screen and (max-width: 600px) {
          .text {
-             padding: 10px 20px;
+             padding: 10px 10%;
          }
          .shared_t01 {
              height: 227px;
@@ -525,10 +592,10 @@
              margin-top: 185px;
          }
          .know_t03 {
-             height: 200px;
+             height: 300px;
          }
          .know_t03 .text {
-             margin-top: 70px;
+             margin-top: 150px;
          }
          .know_t04 {
              height: 265px;
@@ -544,5 +611,68 @@
          }
          .know_t08 {
              height: 250px;
+         }
+         .change_t02 {
+             height: 380px;
+         }
+         .change_t02 .text {
+             margin-top: 236px;
+         }
+         .change_t03 {
+             height: 720px;
+         }
+         .change_t03 .text {
+             margin-top: 536px;
+         }
+         .change_t04 {
+             height: 110px;
+         }
+         .change_t05 {
+             height: 315px;
+         }
+         .change_t05 .text {
+             margin-top: 0px;
+         }
+         .change_t06 {
+             height: 120px;
+         }
+         .change_t07 {
+             height: 650px;
+         }
+         .change_t07 .text {
+             margin-top: 0px;
+         }
+         .change_t07 ul li {
+             list-style: none;
+             padding-left: 6%;
+             position: relative;
+         }
+         .change_t07 ul li:before {
+             content: "•";
+             position: absolute;
+             font-size: 2em;
+             left: 0px;
+             font-family: montserratregular;
+             top: 2px;
+             color: #716552;
+         }
+     }
+     
+     @media only screen and (max-width: 340px) {
+         .text {
+             padding: 10px 20px;
+         }
+         p {
+             font-size: 1.7em;
+             line-height: 1em;
+         }
+         .change_t03 .text {
+             margin-top: 400px;
+         }
+         .change_t03 {
+             height: 550px;
+         }
+         .change_t02 .text {
+             margin-top: 194px;
          }
      }
